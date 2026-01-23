@@ -1,5 +1,5 @@
-## Hi there I'm Chris👋
-I am currently pursuing a Bachelor of Science degree in Computer Information Technology and Cybersecurity at Wright State University.
+## Hi there I'm Chris Rios👋
+I am currently pursuing a Bachelor of Science degree in Computer Information Technology and Cybersecurity at Wright State University. Last semester in my Intro to Software Development class I worked on two projects one for creating a program for racers to register for a marathon and 
 <!--
 **chrisrios5/chrisrios5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

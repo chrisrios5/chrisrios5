@@ -1,5 +1,10 @@
 ## Hi there I'm Chris Rios👋
 I am currently pursuing a Bachelor of Science degree in Computer Science Information Technology and Cybersecurity at Wright State University. I will be working on various projects in Java and learning Linux commands during this semester.
+
+## Languages Learned
+- HTML
+- CSS
+- Java
 <!--
 **chrisrios5/chrisrios5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
